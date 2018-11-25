@@ -1,0 +1,9 @@
+C:\Users\jhoare\source\repos\MotWeb\DataModel\bin\Debug\DataModel.dll
+C:\Users\jhoare\source\repos\MotWeb\DataModel\bin\Debug\DataModel.pdb
+C:\Users\jhoare\source\repos\MotWeb\DataModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhoare\source\repos\MotWeb\DataModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhoare\source\repos\MotWeb\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\jhoare\source\repos\MotWeb\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\jhoare\source\repos\MotWeb\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\jhoare\source\repos\MotWeb\DataModel\obj\Debug\DataModel.dll
+C:\Users\jhoare\source\repos\MotWeb\DataModel\obj\Debug\DataModel.pdb

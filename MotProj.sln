@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotWeb", "MotWeb\MotWeb.csproj", "{285EE572-96D0-4D91-8194-CEC818C8868F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{DF159581-F720-4A9C-BD96-806ACC3C4164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285EE572-96D0-4D91-8194-CEC818C8868F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285EE572-96D0-4D91-8194-CEC818C8868F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285EE572-96D0-4D91-8194-CEC818C8868F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285EE572-96D0-4D91-8194-CEC818C8868F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF159581-F720-4A9C-BD96-806ACC3C4164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF159581-F720-4A9C-BD96-806ACC3C4164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF159581-F720-4A9C-BD96-806ACC3C4164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF159581-F720-4A9C-BD96-806ACC3C4164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F79D4146-0012-4990-B181-AB8FE32B2BD1}
+	EndGlobalSection
+EndGlobal
